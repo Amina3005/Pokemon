@@ -1,6 +1,9 @@
 # Pokedex
 
-Pokedex android app on Java using [Pokemon API](https://pokeapi.co/) , created by following [CS50 course](https://cs50.harvard.edu/x/2020/tracks/mobile/android/pokedex/). 
+Pokedex android app on Java using [Pokemon API](https://pokeapi.co/) , created by following [CS50 course](https://cs50.harvard.edu/x/2020/tracks/mobile/android/pokedex/).
+
+Application offers list of pokemon using PokeApi and shows detailed information of each pokemon. Implemented searching by using SearchView, catching and saving state by using SharedPreferences, sprites - images downloaded via AsyncTask.
+
 There is I created next sections: 
 * searching
 * catching
