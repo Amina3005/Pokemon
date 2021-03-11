@@ -1,6 +1,6 @@
 # Pokedex
 
-Pokedex android app on Java , created by following https://cs50.harvard.edu/x/2020/tracks/mobile/android/pokedex/. 
+Pokedex android app on Java , created by following [CS50 course](https://cs50.harvard.edu/x/2020/tracks/mobile/android/pokedex/). 
 There is I created next sections: 
 * searching
 * catching
